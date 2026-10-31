@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/eri-lianou-psychologos-icon.svg"
+ },
+ "source_md5": "aca0a275979797fc265eb8461cab4721",
+ "version": "53a24a59",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "8366c2b3417cac575d6a43faf133a613"
+ ],
+ "made": "2026-10-31"
+}
